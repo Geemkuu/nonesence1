@@ -2,7 +2,7 @@ const chalk = require("chalk")
 const fs = require("fs")
 
 //aumto presence update
-global.autoReading = true  //auto recording (true to on, false to off)
+global.autoReading = false //auto recording (true to on, false to off)
 global.autoTyping = true //auto tying (true to on, false to off)
 global.autoRecord = true //auto recording (true to on, false to off)
 global.autoblockmorroco = false //auto block 212 (true to on, false to off)
@@ -26,7 +26,7 @@ global.ownernomer = "254700569709" //ur owner number2
 global.ownername = "亗『ＧＥＥ』亗" //ur owner name
 global.ytname = "YT: Xeon" //ur yt chanel name
 global.socialm = "GitHub: DGXeon" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.location = "Nairobi,Kenya" //ur location
 
 //new
 global.botname = "n͜͡önesence ×"
@@ -35,12 +35,12 @@ global.ownername = '亗『ＧＥＥ』亗'
 global.ownerNumber = ["254700569709@s.whatsapp.net"]
 global.ownerweb = "https://youtube.com/@DGXeon"
 global.websitex = "https://youtube.com/@DGXeon"
-global.wagc = "https://chat.whatsapp.com/Kjm8rnDFcpb04gQNSTbW2d"
+global.wagc = "https://chat.whatsapp.com/254700569709"
 global.themeemoji = '😂'
-global.wm = "Xeon Bot Inc."
-global.botscript = 'https://github.com/DGXeon/CheemsBot-MD6' //script link
+global.wm = "by n͜͡önesence ×"
+global.botscript = 'https://github.com/geemkuu/nonesence1' //script link
 global.packname = "Sticker By"
-global.author = "🦄드림 가이 Xeon\n\n+916909137213"
+global.author = "geemkuu"
 global.creator = "254700569709@s.whatsapp.net"
 global.prefa = ['','!','.','#','&']
 global.sessionName = 'session'
