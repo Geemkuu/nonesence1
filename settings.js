@@ -24,15 +24,15 @@ global.doc6 = 'application/vnd.android.package-archive'
 //owmner v card
 global.ownernomer = "254700569709" //ur owner number2
 global.ownername = "亗『ＧＥＥ』亗" //ur owner name
-global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
+global.ytname = "YT: nonesencelover" //ur yt chanel name
+global.socialm = "GitHub: Geemkuu" //ur github or insta name
 global.location = "Nairobi,Kenya" //ur location
 
 //new
 global.botname = "n͜͡önesence ×"
-global.ownernumber = '254700569709'
+global.ownernumber = '254794286079'
 global.ownername = '亗『ＧＥＥ』亗'
-global.ownerNumber = ["254700569709@s.whatsapp.net"]
+global.ownerNumber = ["254794286079@s.whatsapp.net"]
 global.ownerweb = "https://youtube.com/@DGXeon"
 global.websitex = "https://youtube.com/@DGXeon"
 global.wagc = "https://chat.whatsapp.com/254700569709"
